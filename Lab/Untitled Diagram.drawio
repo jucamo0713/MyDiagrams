@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T22:03:58.474Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="44OagpKALP1J2TqkfZs4" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-21T22:28:28.195Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="nrV0IWCBN9S70qs-iUWF" version="20.2.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="854" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,8 +91,8 @@
         <mxCell id="QrOHzuXCWAyN-qy8eZex-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QrOHzuXCWAyN-qy8eZex-37" target="QrOHzuXCWAyN-qy8eZex-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QrOHzuXCWAyN-qy8eZex-37" value="¿Quedan &lt;br&gt;instrumentos &lt;br&gt;para medir el Volumen &lt;br&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;pipeta volumétrica,&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;probeta,&lt;br&gt;&amp;nbsp;bureta&lt;/span&gt;)?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="489" width="160" height="141" as="geometry" />
+        <mxCell id="QrOHzuXCWAyN-qy8eZex-37" value="¿Quedan instrumentos &lt;br&gt;para medir el Volumen &lt;br&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;pipeta volumétrica,&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;probeta, bureta,&lt;br&gt;&amp;nbsp;pipeta graduada&lt;/span&gt;)?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="466.5" width="200" height="186" as="geometry" />
         </mxCell>
         <mxCell id="QrOHzuXCWAyN-qy8eZex-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QrOHzuXCWAyN-qy8eZex-41" target="QrOHzuXCWAyN-qy8eZex-24">
           <mxGeometry relative="1" as="geometry">
